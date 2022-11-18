@@ -1,0 +1,1 @@
+# aula_18112022_sincronizacao
